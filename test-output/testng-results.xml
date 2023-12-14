@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-14T08:49:10 SAST" name="OrangeHRMSuite" finished-at="2023-12-14T08:49:32 SAST" duration-ms="22151">
+    <groups>
+    </groups>
+    <test started-at="2023-12-14T08:49:10 SAST" name="OrangeHRMTest" finished-at="2023-12-14T08:49:32 SAST" duration-ms="22151">
+      <class name="com.qa.tests.TC_002_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.qa.tests.TC_002_LoginTest@3e34ace1]" started-at="2023-12-14T08:49:10 SAST" name="setUp" finished-at="2023-12-14T08:49:27 SAST" duration-ms="16210" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_Login()[pri:0, instance:com.qa.tests.TC_002_LoginTest@3e34ace1]" started-at="2023-12-14T08:49:27 SAST" name="test_Login" finished-at="2023-12-14T08:49:32 SAST" duration-ms="5078" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.TC_002_LoginTest@3e34ace1]" started-at="2023-12-14T08:49:32 SAST" name="tearDown" finished-at="2023-12-14T08:49:32 SAST" duration-ms="612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.TC_002_LoginTest -->
+    </test> <!-- OrangeHRMTest -->
+  </suite> <!-- OrangeHRMSuite -->
+</testng-results>

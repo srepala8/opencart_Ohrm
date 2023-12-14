@@ -1,0 +1,12 @@
+com\qa\pages\LoginPage.class
+com\qa\utils\ExcelUtility.class
+com\qa\tests\TC_002_LoginTest.class
+com\qa\pages\BasePage.class
+com\qa\pages\ContextSelectorPage.class
+com\qa\pages\HomePage.class
+com\qa\utils\DataProviders.class
+com\qa\utils\ExtentReportManager.class
+com\qa\pages\MyAccountPage.class
+com\qa\pages\RegistrationPage.class
+com\qa\pages\HomePage_OHRM.class
+com\qa\base\TestBase.class
